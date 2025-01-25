@@ -56,23 +56,36 @@ This implementation demonstrates how different layers of a model, such as VGG16,
 For further insights into model layer contributions, refer to the [GRAD_CAM](https://github.com/AnkitTsj/GRAD_CAM) repository, which visualizes how models learn and contribute at various levels.
 
 ## Here are some arts,
-Style :
-![image](https://github.com/user-attachments/assets/a14dc552-d766-4e31-91ea-3813ea97a57d)
+
+#Style :
+
+![style (1)](https://github.com/user-attachments/assets/e16f7c85-ea5e-4146-b2fa-24d21725a89a)
 
 
-Content1:
-![image](https://github.com/user-attachments/assets/344e7afd-d3e8-4602-bbcf-dbaf5c759aaa)
+
+#Content1:
+
+![tree](https://github.com/user-attachments/assets/16bda942-af5a-43be-a5f8-71543b5cdcf5)
 
 
-Style + content1:
-![image](https://github.com/user-attachments/assets/4daca666-4036-46c1-9150-e8f1e9153ac5)
 
-content2:
-![image](https://github.com/user-attachments/assets/eb7a8a58-4dfc-4252-a085-b0426d7e44c7)
+#Style+content1:
+
+![Image_9900](https://github.com/user-attachments/assets/b7938bc2-2458-4962-b958-8de4ce2f8acb)
 
 
-style + content2:
-![image](https://github.com/user-attachments/assets/622f82fc-1234-4cf1-b97a-5b56034ddc90)
+
+
+#content2:
+
+![trees](https://github.com/user-attachments/assets/ab66ba06-e4ad-47c2-a3a0-feb03e905b48)
+
+
+
+#style+content2:
+
+![Image2_9900](https://github.com/user-attachments/assets/642313d2-14e2-4d75-a4fc-05fdd30ff0da)
+
 
 
 
