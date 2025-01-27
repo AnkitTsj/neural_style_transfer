@@ -18,9 +18,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 content_1 = Image.open("images/tree.jpg")
 content_2 = Image.open("images/trees.jpg")
 style_image = Image.open("images/style.jpg")
-bro_c = Image.open("images/bro_1.jpg")
-bro_cps = Image.open("images/bro_31.jpeg")
-bro_s = Image.open("images/bro_2.jpg")
+
 
 # Class to extract features from specific layers
 class Hooker:
